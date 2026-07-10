@@ -1,0 +1,26 @@
+DNA Sequence Analysis Report
+===================================
+
+DNA Sequence:
+ATGC
+
+Length: 4
+
+Nucleotide Count
+----------------
+A: 1
+T: 1
+G: 1
+C: 1
+
+GC Content: 50.00%
+AT Content: 50.00%
+
+RNA Sequence:
+AUGC
+
+Reverse Complement:
+GCAT
+
+Protein Sequence:
+Cannot translate because sequence length is not a multiple of 3.
